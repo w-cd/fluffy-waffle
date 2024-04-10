@@ -1,0 +1,35 @@
+body {
+    color:white;
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+div {
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+    background-color: rgba(0, 0, 0, 0.432);
+    border-radius: 20px;
+}
+
+li {
+    font-size: 25px;
+    background-color: rgba(0, 0, 0, 0.432);
+    border-radius: 20px;
+}
